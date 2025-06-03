@@ -1,4 +1,4 @@
-<script>
+
         // Product data
         const products = [
             {
@@ -212,4 +212,4 @@
 
         // Initialize with theme 1
         document.body.className = 'theme-1';
-    </script>
+
